@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BPG401_H.W
+namespace Game_2
 {
     class Program
     {
